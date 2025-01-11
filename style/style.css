@@ -96,17 +96,19 @@ header img{
 .vision-part p{
     font-size: 16px; font-weight: normal;
     color: #0E0E0E; opacity: .7;
-    margin-top: 0px; margin-bottom: 20.4px;
+    margin-top: 0px; 
 }
 .vision-part button{
     width: 104px; height: 35px;
     color: white;
     border: none; border-radius: 8px;
+    margin-top: auto;
     margin-bottom: 27px;
 }
-.vision-part button:hover{
-    background-color: rgb(51, 255, 0); /* New background color when hovered */
-    color: white; /* New text color */
+.vision-part button:hover{ 
+    color: rgb(160, 12, 12); /* New text color */
+    font-size: 15px;
+    font-weight: bolder;
 }
 /* dr yunus quote section */
 .dr-yunus{
@@ -276,7 +278,7 @@ header img{
 }
 /* search box */
 .subs-search{
-    background-color: #ffffff;
+    background-color: #FFFFFF;
     width: 510px; height: 47.6px;
     border: none; border-radius: 8px 0px 0px 8px;
     font-size: 16px; font-weight: normal;
